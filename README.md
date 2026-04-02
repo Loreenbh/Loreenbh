@@ -1,8 +1,8 @@
 ![Banner](./images/banner.png)
 
 ## Skills
-- ![#0D1B2A](https://via.placeholder.com/15/0D1B2A/000000?text=+) Linux / Bash / Git
-- ![#1E3A8A](https://via.placeholder.com/15/1E3A8A/000000?text=+) Networking: TCP/IP, ports, scanning, enumeration
+- Linux / Bash / Git
+- Networking: TCP/IP, ports, scanning, enumeration
 - Privilege escalation (Linux)
 - Web vulnerabilities: XSS, SQL injection, authentication flaws
 - Scripting: Bash, Python
