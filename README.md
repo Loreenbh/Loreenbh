@@ -1,5 +1,4 @@
 ![Banner](./images/banner.png)
-
 ## Skills
 - Linux / Bash / Git
 - Networking: TCP/IP, ports, scanning, enumeration
