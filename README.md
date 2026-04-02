@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Loreenbh/images/banner.png)
+![Banner](/images/banner.png)
 
 Student at École 42 specializing in cybersecurity.  
 Seeking an internship or work-study position in cybersecurity (penetration testing / SOC) to apply hands-on skills in real-world environments.
