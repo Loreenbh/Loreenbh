@@ -1,9 +1,7 @@
+# Hii, I'm ![Loreen](https://img.shields.io/badge/-Loreen-3776AB?style=for-the-badge&logo=github&logoColor=white)
 <p align="center">
-  <span style="color:#FF5733;">Hii, I'm </span>
-  <span style="color:#3776AB;">Loreen</span>
+  <img src="https://img.shields.io/badge/-Loreenbh-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Loreenbh"/>
 </p>
-
-# ![Loreen](https://img.shields.io/badge/-Loreen-3776AB?style=for-the-badge&logo=github&logoColor=white)
 
 Student at École 42 specializing in cybersecurity.  
 Seeking an internship or work-study position in cybersecurity (penetration testing / SOC) to apply hands-on skills in real-world environments.
