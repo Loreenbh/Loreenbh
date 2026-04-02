@@ -16,6 +16,7 @@ I enjoy hands-on learning and creating small automation tools to experiment and 
 - CTF platforms: TryHackMe, HackTheBox
 
 <h2 align="center">Cybersecurity Projects</h2>
+
 - **Rainfall** – In Progress – Binary exploitation, reverse engineering, buffer overflows 
 - **Snowcrash** – Exploitation of Linux misconfigurations and privilege escalation techniques ([snowcrash](https://github.com/Loreenbh/snowcrash))
 - **Darkly** – Identification and exploitation of web vulnerabilities (XSS, SQL injection, authentication flaws) ([darkly](
