@@ -12,10 +12,10 @@ Cybersecurity 42 Student - Penetration Testing / SOC
 
 ## Cybersecurity Projects
 - **Rainfall (42)** – In Progress – Binary exploitation, reverse engineering, buffer overflows 
-- **Snowcrash (42)** – Exploitation of Linux misconfigurations and privilege escalation techniques ([Snowcrash](https://github.com/Loreenbh/snowcrash))
-- **Darkly (42)** – Identification and exploitation of web vulnerabilities (XSS, SQL injection, authentication flaws) ([Darkly](
+- **Snowcrash (42)** – Exploitation of Linux misconfigurations and privilege escalation techniques ([snowcrash](https://github.com/Loreenbh/snowcrash))
+- **Darkly (42)** – Identification and exploitation of web vulnerabilities (XSS, SQL injection, authentication flaws) ([darkly](
 https://github.com/Loreenbh/darkly))
-- **HackTheBox challenges** – Practical labs involving enumeration, exploitation, and privilege escalation ([HTM](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
+- **HackTheBox challenges** – Practical labs involving enumeration, exploitation, and privilege escalation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
 - Personal Cybersecurity notes & small automation tools
 
 ## 42 System Projects
