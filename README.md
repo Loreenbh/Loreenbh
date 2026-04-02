@@ -1,4 +1,10 @@
 ![Banner](./images/banner.png)
+
+## About Me
+Hi! I'm Loreen ✨​, a junior cybersecurity student at École 42.  
+I’m building practical experience with CTF challenges and 42 projects.  
+I enjoy hands-on learning and creating small automation tools to experiment and improve.
+
 ## Skills
 - Linux / Bash / Git
 - Networking: TCP/IP, ports, scanning, enumeration
