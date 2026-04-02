@@ -7,6 +7,7 @@ I enjoy hands-on learning and creating small automation tools to experiment and 
 </p>
 
 <h2 align="center">Skills</h2>
+
 - Linux / Bash / Git
 - Networking: TCP/IP, ports, scanning, enumeration
 - Privilege escalation (Linux)
