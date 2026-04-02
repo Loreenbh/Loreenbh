@@ -3,6 +3,8 @@
   <span style="color:#3776AB;">Loreen</span>
 </p>
 
+# ![Loreen](https://img.shields.io/badge/-Loreen-3776AB?style=for-the-badge&logo=github&logoColor=white)
+
 Student at École 42 specializing in cybersecurity.  
 Seeking an internship or work-study position in cybersecurity (penetration testing / SOC) to apply hands-on skills in real-world environments.
 
