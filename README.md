@@ -1,4 +1,6 @@
-![Banner](/images/banner.png)
+# Hii, I'm Loreen
+
+Cybersecurity 42 Student - Penetration Testing / SOC
 
 ## Skills
 - Linux / Bash / Git
