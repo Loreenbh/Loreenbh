@@ -1,4 +1,4 @@
-# Hii, I'm Loreen 
+# Hii, I'm Loreen ☀
 
 Student at École 42 specializing in cybersecurity.  
 Seeking an internship or work-study position in cybersecurity (penetration testing / SOC) to apply hands-on skills in real-world environments.
