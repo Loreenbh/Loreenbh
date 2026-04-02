@@ -1,7 +1,4 @@
-# Hii, I'm ![Loreen](https://img.shields.io/badge/-Loreen-3776AB?style=for-the-badge&logo=github&logoColor=white)
-<p align="center">
-  <img src="https://img.shields.io/badge/-Loreenbh-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Loreenbh"/>
-</p>
+![Banner](https://raw.githubusercontent.com/Loreenbh/images/banner.png)
 
 Student at École 42 specializing in cybersecurity.  
 Seeking an internship or work-study position in cybersecurity (penetration testing / SOC) to apply hands-on skills in real-world environments.
