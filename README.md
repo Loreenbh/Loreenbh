@@ -16,7 +16,7 @@ I enjoy hands-on learning and creating small automation tools to experiment and 
 - Scripting: Bash, Python
 - CTF platforms: TryHackMe, HackTheBox
 
-<h2 align="center">Cybersecurity Projects</h2>
+![Cybersecurity Projects](./images/cybersecurity_projects.png)
 
 - **Rainfall** – In Progress – Binary exploitation, reverse engineering, buffer overflows 
 - **Snowcrash** – Exploitation of Linux misconfigurations and privilege escalation techniques ([snowcrash](https://github.com/Loreenbh/snowcrash))
@@ -25,7 +25,8 @@ https://github.com/Loreenbh/darkly))
 - **HackTheBox challenges** – Practical labs involving enumeration, exploitation, and privilege escalation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
 - Personal Cybersecurity notes & small automation tools
 
-<h2 align="center">System Projects</h2>
+
+![System Projects](./images/system_projects.png)
 
 - **Minishell** – process management, fork/exec (relevant for understanding vulnerabilities) ([minishell](https://github.com/Loreenbh/minishell))
 - **Webserv** – HTTP server, sockets, request handling (web security basics) ([webserv](https://github.com/Loreenbh/webserv))
