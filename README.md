@@ -1,7 +1,5 @@
 ![Banner](./images/banner.png)
 
-<h2 align="center">About Me</h2>
-
 ![Cover](./images/aboutMe.png)
 
 <p align="center">Hi! I'm Loreen ✨​, a junior cybersecurity student at École 42.  
