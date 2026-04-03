@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-![About Me](./images/about.png)
+![Cover](./images/about.png)
 
 <p align="center">Hi! I'm Loreen ✨​, a junior cybersecurity student at École 42.  
 I’m building practical experience with CTF challenges and 42 projects.  
