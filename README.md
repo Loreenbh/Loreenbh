@@ -32,4 +32,4 @@ https://github.com/Loreenbh/darkly))
 - **Webserv** – HTTP server, sockets, request handling (web security basics) ([webserv](https://github.com/Loreenbh/webserv))
 - **Inception** – Docker & system administration (infrastructure understanding) ([inception](https://github.com/Loreenbh/inception))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loreenbh&theme=gruvbox&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Loreenbh&show_icons=true&theme=tokyonight)
