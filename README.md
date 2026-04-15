@@ -31,5 +31,3 @@ https://github.com/Loreenbh/darkly))
 - **Minishell** – process management, fork/exec (relevant for understanding vulnerabilities) ([minishell](https://github.com/Loreenbh/minishell))
 - **Webserv** – HTTP server, sockets, request handling (web security basics) ([webserv](https://github.com/Loreenbh/webserv))
 - **Inception** – Docker & system administration (infrastructure understanding) ([inception](https://github.com/Loreenbh/inception))
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Loreenbh&show_icons=true&theme=tokyonight)
