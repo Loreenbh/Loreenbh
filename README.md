@@ -45,7 +45,7 @@
   Log analysis, incident reconstruction, and security writeups for attack scenarios
 
 ### Personal Projects  
-  Cybersecurity notes and small automation scripts for learning and security experimentation
+- Cybersecurity notes and small automation scripts for learning and security experimentation
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
