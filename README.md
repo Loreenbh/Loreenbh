@@ -24,7 +24,7 @@ I focus on understanding how systems work at a low level and how they can be ana
 **Platforms**
 - Hack The Box
 
-![Security Projects](./images/security_projects.png)
+![Security Projects](./images/security.png)
 
 **Rainfall** – (In Progress) Binary exploitation, reverse engineering, buffer overflows
 - Low-level memory behavior and exploitation techniques
@@ -45,7 +45,7 @@ I focus on understanding how systems work at a low level and how they can be ana
 **Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
 
 
-![Systems & Networking Projects](./images/system_projects.png)
+![Systems & Networking Projects](./images/system_networking.png)
 
 **Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))
 - Understanding HTTP protocol, request parsing, and client-server architecture
