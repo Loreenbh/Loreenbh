@@ -24,7 +24,7 @@ I focus on understanding how systems work at a low level and how they can be ana
 **Platforms**
 - Hack The Box
 
-![Security Projects](./images/cybersecurity_projects.png)
+![Security Projects](./images/security_projects.png)
 
 **Rainfall** – (In Progress) Binary exploitation, reverse engineering, buffer overflows
 - Low-level memory behavior and exploitation techniques
