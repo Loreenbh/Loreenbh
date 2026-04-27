@@ -35,23 +35,18 @@ I focus on understanding how systems work at a low level and how they can be ana
 - **Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))  
   Exploitation of XSS, SQL injection, authentication bypass, access control flaws
 
-
-**HackTheBox Labs** – Security analysis labs focused on enumeration, exploitation, and incident-style investigation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
-- Practice of system compromise scenarios and vulnerability chaining
-
+- **HackTheBox Labs** – Security analysis labs focused on enumeration, exploitation, and incident-style investigation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))  
+  Practice of system compromise scenarios and vulnerability chaining
 
 **Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
 
-
 ![Systems & Networking Projects](./images/system_networking.png)
 
-**Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))
-- Understanding HTTP protocol, request parsing, and client-server architecture
+- **Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))  
+  Understanding HTTP protocol, request parsing, and client-server architecture
 
+- **Minishell** – Unix shell implementation (process management, fork/exec, pipes, signals) ([minishell](https://github.com/Loreenbh/minishell))  
+  Deep understanding of OS process behavior
 
-**Minishell** – Unix shell implementation (process management, fork/exec, pipes, signals) ([minishell](https://github.com/Loreenbh/minishell))
-- Deep understanding of OS process behavior
-
-
-**Inception** – Docker-based infrastructure ([inception](https://github.com/Loreenbh/inception))
-- Service isolation, system administration, and container networking
+- **Inception** – Docker-based infrastructure ([inception](https://github.com/Loreenbh/inception))  
+  Service isolation, system administration, and container networking
