@@ -26,25 +26,25 @@
 
 ![Security Projects](./images/security.png)
 
-### Exploitation & Reverse Engineering
+### Exploitation & Reverse Engineering  
 - **Rainfall** – (In Progress): Binary exploitation, reverse engineering, buffer overflows  
   Low-level memory behavior and exploitation techniques
 
-### System Security & Privilege Escalation
+### System Security & Privilege Escalation  
 - **Snowcrash** – Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))  
   System-level vulnerability exploitation
 
-### Web Security
+### Web Security  
 - **Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))  
   XSS, SQL injection, authentication bypass, access control flaws
 
-### Security Analysis & Incident Investigation
+### Security Analysis & Incident Investigation  
 - **HackTheBox Labs** – SOC-style labs([hackthebox](https://app.hackthebox.com/users/2994472))  
   System compromise scenarios, log analysis, and attack chaining investigations
 - **Forensic & SOC mini-projects** (in progress)
   Log analysis, incident reconstruction, and security writeups for attack scenarios
 
-### Personal Projects
+### Personal Projects  
   Cybersecurity notes and small automation scripts for learning and security experimentation
 
 ![Systems & Networking Projects](./images/system_networking.png)
