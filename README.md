@@ -26,15 +26,11 @@ I focus on understanding how systems work at a low level and how they can be ana
 
 ![Security Projects](./images/security.png)
 
-**Rainfall** – (In Progress) Binary exploitation, reverse engineering, buffer overflows
-- Low-level memory behavior and exploitation techniques
-
-- Rainfall – (In Progress): Binary exploitation, reverse engineering, buffer overflows  
+- **Rainfall** – (In Progress): Binary exploitation, reverse engineering, buffer overflows  
   Low-level memory behavior and exploitation techniques
 
-
-**Snowcrash** – Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))
-- System-level vulnerability exploitation
+**Snowcrash** – Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))  
+  System-level vulnerability exploitation
 
 
 **Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))
