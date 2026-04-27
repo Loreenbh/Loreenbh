@@ -2,32 +2,48 @@
 
 ![About Me](./images/aboutMe.png)
 
-<p align="center">Hi! I'm Loreen ✨​, a junior cybersecurity student at École 42.  
-I’m building practical experience with CTF challenges and 42 projects.  
-I enjoy hands-on learning and creating small automation tools to experiment and improve.
+<p align="center"> Hi! I’m Loreen ✨ a cybersecurity student at École 42.
+
+I focus on understanding how systems work at a low level and how they can be analyzed or exploited from a security perspective. I build hands-on experience through CTF platforms and 42 projects, with a current focus on security analysis, incident investigation, and system-level behavior.
 </p>
 
 ![Skills](./images/skills.png)
 
-- Linux / Bash / Git
-- Networking: TCP/IP, ports, scanning, enumeration
-- Privilege escalation (Linux)
-- Web vulnerabilities: XSS, SQL injection, authentication flaws
-- Scripting: Bash, Python
-- CTF platforms: TryHackMe, HackTheBox
+**Systems & Networking**
+- Linux, Bash, Git
+- TCP/IP, ports, networking fundamentals
+- Network scanning & enumeration
 
-![Cybersecurity Projects](./images/cybersecurity_projects.png)
+**Security**
+- Linux privilege escalation
+- Web vulnerabilities (XSS, SQLi, authentication flaws)
+- Security analysis & incident investigation fundamentals
 
-- **Rainfall** – In Progress – Binary exploitation, reverse engineering, buffer overflows 
-- **Snowcrash** – Exploitation of Linux misconfigurations and privilege escalation techniques ([snowcrash](https://github.com/Loreenbh/snowcrash))
-- **Darkly** – Identification and exploitation of web vulnerabilities (XSS, SQL injection, authentication flaws) ([darkly](
-https://github.com/Loreenbh/darkly))
-- **HackTheBox challenges** – Practical labs involving enumeration, exploitation, and privilege escalation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
-- Personal Cybersecurity notes & small automation tools
+**Programming**
+- C, Python, Bash
+
+**Platforms**
+- Hack The Box
+
+![Security Projects](./images/cybersecurity_projects.png)
+
+**Rainfall** – (In Progress) Binary exploitation, reverse engineering, buffer overflows
+- Low-level memory behavior and exploitation techniques
+
+**Snowcrash** – Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))
+- System-level vulnerability exploitation
+
+**Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))
+Exploitation of XSS, SQL injection, authentication bypass, access control flaws
+
+- **HackTheBox Labs** – Security analysis labs focused on enumeration, exploitation, and incident-style investigation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
+Practice of system compromise scenarios and vulnerability chaining
+
+- **Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
 
 
-![System Projects](./images/system_projects.png)
+![Systems & Networking Projects](./images/system_projects.png)
 
-- **Minishell** – process management, fork/exec (relevant for understanding vulnerabilities) ([minishell](https://github.com/Loreenbh/minishell))
-- **Webserv** – HTTP server, sockets, request handling (web security basics) ([webserv](https://github.com/Loreenbh/webserv))
-- **Inception** – Docker & system administration (infrastructure understanding) ([inception](https://github.com/Loreenbh/inception))
+- **Webserv** – HTTP, sockets, networking fundamentals ([webserv](https://github.com/Loreenbh/webserv))
+- **Minishell** – process management, OS behavior ([minishell](https://github.com/Loreenbh/minishell))
+- **Inception** – Docker, infrastructure, isolation concepts ([inception](https://github.com/Loreenbh/inception))
