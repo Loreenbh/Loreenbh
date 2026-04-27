@@ -48,13 +48,13 @@ I focus on understanding how systems work at a low level and how they can be ana
 
 ![Systems & Networking Projects](./images/system_projects.png)
 
-- **Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))
-Understanding HTTP protocol, request parsing, and client-server architecture
+**Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))
+- Understanding HTTP protocol, request parsing, and client-server architecture
 
 
-- **Minishell** – Unix shell implementation (process management, fork/exec, pipes, signals) ([minishell](https://github.com/Loreenbh/minishell))
-Deep understanding of OS process behavior
+**Minishell** – Unix shell implementation (process management, fork/exec, pipes, signals) ([minishell](https://github.com/Loreenbh/minishell))
+- Deep understanding of OS process behavior
 
 
-- **Inception** – Docker-based infrastructure ([inception](https://github.com/Loreenbh/inception))
-Service isolation, system administration, and container networking
+**Inception** – Docker-based infrastructure ([inception](https://github.com/Loreenbh/inception))
+- Service isolation, system administration, and container networking
