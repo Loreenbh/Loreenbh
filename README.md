@@ -35,7 +35,7 @@ I focus on understanding how systems work at a low level and how they can be ana
 - **Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))  
   Exploitation of XSS, SQL injection, authentication bypass, access control flaws
 
-- **HackTheBox Labs** – Security analysis labs focused on enumeration, exploitation, and incident-style investigation ([hackthebox](https://app.hackthebox.com/users/2994472?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))  
+- **HackTheBox Labs** – Security analysis labs focused on enumeration, exploitation, and incident-style investigation ([hackthebox](https://app.hackthebox.com/users/2994472))  
   Practice of system compromise scenarios and vulnerability chaining
 
 - **Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
