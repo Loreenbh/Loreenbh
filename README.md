@@ -39,7 +39,7 @@
   XSS, SQL injection, authentication bypass, access control flaws
 
 ### Security Analysis & Incident Investigation  
-- **HackTheBox Labs** – SOC-style labs([hackthebox](https://app.hackthebox.com/users/2994472))  
+- **HackTheBox Labs** – SOC-style labs ([hackthebox](https://app.hackthebox.com/users/2994472))  
   System compromise scenarios, log analysis, and attack chaining investigations
 - **Forensic & SOC mini-projects** (in progress)
   Log analysis, incident reconstruction, and security writeups for attack scenarios
