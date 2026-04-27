@@ -2,8 +2,7 @@
 
 ![About Me](./images/aboutMe.png)
 
-<p align="center"> Hi! I’m Loreen ✨ a cybersecurity student at École 42.
-I focus on understanding how systems work at a low level and how they can be analyzed or exploited from a security perspective. I build hands-on experience through CTF platforms and 42 projects, with a current focus on security analysis, incident investigation, and system-level behavior.
+<p align="center"> Hi! I’m Loreen ✨ a cybersecurity student at École 42. I focus on understanding how systems work at a low level and how they can be analyzed from a security perspective. I build hands-on experience through CTF platforms and 42 projects, with a current focus on security analysis, incident investigation, and system-level behavior (logs, attacks, and exploitation techniques).
 </p>
 
 ![Skills](./images/skills.png)
@@ -14,15 +13,16 @@ I focus on understanding how systems work at a low level and how they can be ana
 - Network scanning & enumeration
 
 **Security**
+- Incident investigation & log analysis (SOC fundamentals ⭐)
 - Linux privilege escalation
 - Web vulnerabilities (XSS, SQLi, authentication flaws)
-- Security analysis & incident investigation fundamentals
+- Security analysis & attack reconstruction
 
 **Programming**
 - C, Python, Bash
 
 **Platforms**
-- Hack The Box
+- Hack The Box (Sherlocks, forensic challenges)
 
 ![Security Projects](./images/security.png)
 
