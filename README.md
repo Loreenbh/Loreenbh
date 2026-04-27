@@ -13,7 +13,7 @@
 - Network scanning & enumeration
 
 **Security**
-- Incident investigation & log analysis (SOC fundamentals ⭐)
+- Incident investigation & log analysis
 - Linux privilege escalation
 - Web vulnerabilities (XSS, SQLi, authentication flaws)
 - Security analysis & attack reconstruction
