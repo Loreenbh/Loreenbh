@@ -43,7 +43,7 @@ I focus on understanding how systems work at a low level and how they can be ana
 - Practice of system compromise scenarios and vulnerability chaining
 
 
-- **Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
+**Personal projects** – Cybersecurity notes and small automation scripts for learning and security experimentation
 
 
 ![Systems & Networking Projects](./images/system_projects.png)
