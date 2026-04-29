@@ -40,7 +40,7 @@
 
 ### Security Analysis & Incident Investigation
 
-- **HackTheBox Profile** ([profile HTB](https://app.hackthebox.com/users/2994472)) 
+- **HackTheBox Profile** ([profile HTB](https://app.hackthebox.com/users/2994472))
   Active participation in SOC-style labs, forensic challenges, and system compromise scenarios.
 
 - **Forensic & Security Writeups** ([write-ups](https://github.com/forensic-writeups)) 
