@@ -51,7 +51,7 @@
   
 - **Forensic & Security Writeups**  
   Analysis of Linux forensics, web attacks, privilege escalation, and incident investigations  
-  https://github.com/forensic-writeups
+  https://github.com/Loreenbh/forensic-writeups
   
 - **Personal Security Projects** (in progress)  
   Log analysis, attack simulation, and system behavior research for cybersecurity learning
