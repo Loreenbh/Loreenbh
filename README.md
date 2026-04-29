@@ -27,7 +27,7 @@
 ![Security Projects](./images/security.png)
 
 ### Exploitation & Reverse Engineering  
-- **Rainfall** – (In Progress)
+- **Rainfall** – (In Progress)  
   Binary exploitation, reverse engineering, buffer overflows  
   Low-level memory behavior and exploitation techniques
 
