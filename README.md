@@ -27,31 +27,33 @@
 ![Security Projects](./images/security.png)
 
 ### Exploitation & Reverse Engineering  
-- **Rainfall** – (In Progress): Binary exploitation, reverse engineering, buffer overflows  
+- **Rainfall** – (In Progress)
+  Binary exploitation, reverse engineering, buffer overflows  
   Low-level memory behavior and exploitation techniques
 
 ### System Security & Privilege Escalation  
-- **Snowcrash** – Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))  
+- **Snowcrash**  
+  Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))  
   System-level vulnerability exploitation
 
 ### Web Security  
-- **Darkly** – Web application security ([darkly](https://github.com/Loreenbh/darkly))  
+- **Darkly**
+  Web application security ([darkly](https://github.com/Loreenbh/darkly))  
   XSS, SQL injection, authentication bypass, access control flaws
 
 ### Security Analysis & Incident Investigation
 
-- **HackTheBox Profile** ([profile HTB](https://app.hackthebox.com/users/2994472))
+- **HackTheBox Profile**
+  ([profile HTB](https://app.hackthebox.com/users/2994472))
   Active participation in SOC-style labs, forensic challenges, and system compromise scenarios.
 
-- **Forensic & Security Writeups** ([write-ups](https://github.com/forensic-writeups)) 
-  Analysis of real and simulated security incidents covering Linux forensics, web vulnerabilities, privilege escalation, and system compromise investigations.
+- **Forensic & Security Writeups**
+  ([write-ups](https://github.com/forensic-writeups)) 
+  Analysis of Linux forensics, web attacks, privilege escalation, and incident investigations
 
 - **Personal Security Projects** (in progress)  
-  Practical experiments and tooling around log analysis, attack simulation, and system behavior understanding for cybersecurity learning purposes.
+  Log analysis, attack simulation, and system behavior research for cybersecurity learning
 
-
-### Personal Projects  
-- Cybersecurity notes and small automation scripts for learning and security experimentation
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
