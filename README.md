@@ -66,10 +66,10 @@
   
 - **Minishell**  
   Unix shell implementation (process management, fork/exec, pipes, signals)  
-  Deep understanding of OS process behavior
+  Deep understanding of OS process behavior  
   https://github.com/Loreenbh/minishell
 
 - **Inception**  
   Docker-based infrastructure   
-  Service isolation, system administration, and container networking
+  Service isolation, system administration, and container networking  
   https://github.com/Loreenbh/inception
