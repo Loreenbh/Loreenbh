@@ -33,14 +33,16 @@
 
 ### System Security & Privilege Escalation  
 - **Snowcrash**  
-  Linux privilege escalation through misconfigurations and SUID binaries ([snowcrash](https://github.com/Loreenbh/snowcrash))  
+  Linux privilege escalation through misconfigurations and SUID binaries  
   System-level vulnerability exploitation
-
+  https://github.com/Loreenbh/snowcrash
+  
 ### Web Security  
 - **Darkly**
-  Web application security ([darkly](https://github.com/Loreenbh/darkly))  
+  Web application security 
   XSS, SQL injection, authentication bypass, access control flaws
-
+  https://github.com/Loreenbh/darkly
+  
 ### Security Analysis & Incident Investigation
 
 - **HackTheBox Profile**
