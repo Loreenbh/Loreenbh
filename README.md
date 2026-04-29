@@ -41,8 +41,27 @@
 ### Security Analysis & Incident Investigation  
 - **HackTheBox Labs** – SOC-style labs ([hackthebox](https://app.hackthebox.com/users/2994472))  
   System compromise scenarios, log analysis, and attack chaining investigations
+- **Forensic & SOC Writeups** – texte ([write-ups](link))  
+  texte
 - **Forensic & SOC mini-projects** (in progress)
   Log analysis, incident reconstruction, and security writeups for attack scenarios
+
+
+### Security Analysis & Incident Investigation
+
+- **HackTheBox Profile**  
+  https://app.hackthebox.com/users/2994472  
+  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios.
+
+- **Forensic & Security Writeups**  
+  https://github.com/ton-repo/writeups  
+  Analysis of real and simulated security incidents covering Linux forensics, web vulnerabilities, privilege escalation, and system compromise investigations.
+
+- **Personal Security Projects** (in progress)  
+  Practical experiments and tooling around log analysis, attack simulation, and system behavior understanding for cybersecurity learning purposes.
+
+
+
 
 ### Personal Projects  
 - Cybersecurity notes and small automation scripts for learning and security experimentation
