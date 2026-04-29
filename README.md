@@ -46,7 +46,7 @@
 ### Security Analysis & Incident Investigation
 
 - **HackTheBox Profile**  
-  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios
+  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios  
   https://app.hackthebox.com/users/2994472
   
 - **Forensic & Security Writeups**  
@@ -59,11 +59,17 @@
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
-- **Webserv** – HTTP server built using raw sockets ([webserv](https://github.com/Loreenbh/webserv))  
-  Understanding HTTP protocol, request parsing, and client-server architecture
-
-- **Minishell** – Unix shell implementation (process management, fork/exec, pipes, signals) ([minishell](https://github.com/Loreenbh/minishell))  
+- **Webserv**  
+  HTTP server built using raw sockets  
+  Understanding HTTP protocol, request parsing, and client-server architecture  
+  https://github.com/Loreenbh/webserv
+  
+- **Minishell**  
+  Unix shell implementation (process management, fork/exec, pipes, signals)  
   Deep understanding of OS process behavior
+  https://github.com/Loreenbh/minishell
 
-- **Inception** – Docker-based infrastructure ([inception](https://github.com/Loreenbh/inception))  
+- **Inception**  
+  Docker-based infrastructure   
   Service isolation, system administration, and container networking
+  https://github.com/Loreenbh/inception
