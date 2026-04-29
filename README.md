@@ -38,21 +38,21 @@
   https://github.com/Loreenbh/snowcrash
   
 ### Web Security  
-- **Darkly**
+- **Darkly**  
   Web application security 
   XSS, SQL injection, authentication bypass, access control flaws  
   https://github.com/Loreenbh/darkly
   
 ### Security Analysis & Incident Investigation
 
-- **HackTheBox Profile**
-  ([profile HTB](https://app.hackthebox.com/users/2994472))
-  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios.
-
-- **Forensic & Security Writeups**
-  ([write-ups](https://github.com/forensic-writeups)) 
-  Analysis of Linux forensics, web attacks, privilege escalation, and incident investigations
-
+- **HackTheBox Profile**  
+  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios
+  https://app.hackthebox.com/users/2994472
+  
+- **Forensic & Security Writeups**  
+  Analysis of Linux forensics, web attacks, privilege escalation, and incident investigations  
+  https://github.com/forensic-writeups)
+  
 - **Personal Security Projects** (in progress)  
   Log analysis, attack simulation, and system behavior research for cybersecurity learning
 
