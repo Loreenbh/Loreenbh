@@ -17,6 +17,8 @@ Cybersecurity student at École 42. I focus on understanding how systems work at
 and analyzing them from a security perspective — logs, incident investigation, and exploitation techniques.
 </p>
 
+---
+
 ![Skills](./images/skills.png)
 
 **Security**
