@@ -3,7 +3,7 @@
 ![About Me](./images/aboutMe.png)
 
 
-<h1 align="center">Loreen Benhammou</h1>
+<h1 align="center">Loreen Begliomini Hazan</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/École_42-Paris-000000?style=flat-square&logo=42&logoColor=white"/>
