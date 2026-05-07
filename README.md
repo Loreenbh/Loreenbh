@@ -75,9 +75,9 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
 | Project | Description |
 |---------|-------------|
-| [Webserv](https://github.com/Loreenbh/webserv) | HTTP server built with raw sockets — HTTP protocol, request parsing, client-server architecture |
-| [Minishell](https://github.com/Loreenbh/minishell) | Unix shell — fork/exec, pipes, signals, process management |
-| [Inception](https://github.com/Loreenbh/inception) | Docker infrastructure — service isolation, system administration, container networking |
+| <a href="https://github.com/Loreenbh/webserv"><img src="https://img.shields.io/badge/Webserv-008080?style=flat-square"/></a> | HTTP server built with raw sockets — HTTP protocol, request parsing, client-server architecture |
+| <a href="https://github.com/Loreenbh/minishell"><img src="https://img.shields.io/badge/Minishell-008080?style=flat-square"/></a> | Unix shell — fork/exec, pipes, signals, process management |
+| <a href="https://github.com/Loreenbh/inception"><img src="https://img.shields.io/badge/Inception-008080?style=flat-square"/></a> | Docker infrastructure — service isolation, system administration, container networking |
 
 
 ## HackTheBox
