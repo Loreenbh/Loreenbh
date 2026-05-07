@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/École_42-Paris-000000?style=flat-square&logo=42&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Forensic_·_SOC-008080?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_internship_·_apprenticeship-008080?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Forensic_·_SOC-1a3f4f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_internship_·_apprenticeship-1a3f4f?style=flat-square"/>
 
 <p align="center">
 Cybersecurity student at École 42. I focus on understanding how systems work at a low level<br>
