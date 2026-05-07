@@ -43,16 +43,12 @@ and analyzing them from a security perspective — logs, incident investigation,
 Write-ups covering Linux forensics, web attacks, privilege escalation and incident investigations.
 Labs from HackTheBox (Sherlocks).
 
-### [Darkly](https://github.com/Loreenbh/darkly)
-Web application security — XSS, SQL injection, authentication bypass, access control flaws.
-
-
-### 🌐 Darkly
-Web application security — XSS, SQL injection, authentication bypass.
-
 <a href="https://github.com/Loreenbh/darkly">
   <img src="https://img.shields.io/badge/Darkly-008080?style=flat-square&logo=github&logoColor=white"/>
 </a>
+Web application security — XSS, SQL injection, authentication bypass.
+
+
 
 
 ### [Snowcrash](https://github.com/Loreenbh/snowcrash)
