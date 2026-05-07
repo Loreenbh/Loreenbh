@@ -77,5 +77,5 @@ Looking for an **internship or apprenticeship in Forensic / SOC**.
 
 <p align="center">
   <a href="https://github.com/Loreenbh"><img src="https://img.shields.io/badge/GitHub-Loreenbh-181717?style=flat-square&logo=github"/></a>
-  <a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-008080?style=flat-square&logo=hackthebox&logoColor=black"/></a>
 </p>
