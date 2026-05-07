@@ -36,7 +36,8 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 **Languages**
 - C · Python · Bash
-
+  
+---
 
 ![Security Projects](./images/security.png)
 
@@ -54,6 +55,7 @@ Linux privilege escalation through misconfigurations and SUID binaries.
 ### Rainfall *(in progress)*
 Binary exploitation, reverse engineering, buffer overflows. Low-level memory behavior.
 
+---
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
@@ -63,7 +65,18 @@ Binary exploitation, reverse engineering, buffer overflows. Low-level memory beh
 | [Minishell](https://github.com/Loreenbh/minishell) | Unix shell — fork/exec, pipes, signals, process management |
 | [Inception](https://github.com/Loreenbh/inception) | Docker infrastructure — service isolation, system administration, container networking |
 
-  ## Contact
+---
+## HackTheBox
+
+<a href="https://app.hackthebox.com/users/2994472">
+  <img src="https://www.hackthebox.com/badge/image/2994472" alt="HackTheBox Badge"/>
+</a>
+
+Active on forensic and SOC-style challenges (Sherlocks).
+
+---
+
+## Contact
 
 Looking for an **internship or apprenticeship in Forensic / SOC**.
 
