@@ -79,7 +79,7 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 | <a href="https://github.com/Loreenbh/inception"><img src="https://img.shields.io/badge/Inception-008080?style=flat-square"/></a> | Docker infrastructure — service isolation, system administration, container networking |
 
 
-## HackTheBox
+![Hack The Box](./images/hackthebox.png)
 
 <p align="center">Active on forensic and SOC-style challenges (Sherlocks).</p>
 <div align="center">
@@ -90,8 +90,7 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
 </div>
 
-
-##  Contact
+![Contact](./images/contact.png)
 
 <p align="center">Looking for an internship or apprenticeship in Forensic / SOC.</p>
 
