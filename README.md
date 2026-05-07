@@ -98,6 +98,6 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
 <div align="center">
 <a href="https://github.com/Loreenbh"><img src="https://img.shields.io/badge/GitHub-Loreenbh-181717?style=flat-square&logo=github"/></a>
-<a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-008080?style=flat-square&logo=hackthebox&logoColor=black"/></a>
+<a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-1a3f4f?style=flat-square&logo=hackthebox&logoColor=black"/></a>
 
 </div>
