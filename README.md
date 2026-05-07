@@ -28,7 +28,6 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 ![Security Projects](./images/security.png)
 
-
 ### 📝 [Forensic & Security Writeups](https://github.com/Loreenbh/forensic-writeups)
 
 ### Exploitation & Reverse Engineering  
@@ -64,21 +63,11 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
-- **Webserv**  
-  HTTP server built using raw sockets  
-  Understanding HTTP protocol, request parsing, and client-server architecture  
-  https://github.com/Loreenbh/webserv
-  
-- **Minishell**  
-  Unix shell implementation (process management, fork/exec, pipes, signals)  
-  Deep understanding of OS process behavior  
-  https://github.com/Loreenbh/minishell
-
-- **Inception**  
-  Docker-based infrastructure   
-  Service isolation, system administration, and container networking  
-  https://github.com/Loreenbh/inception
-
+| Project | Description |
+|---------|-------------|
+| [Webserv](https://github.com/Loreenbh/webserv) | HTTP server built with raw sockets — HTTP protocol, request parsing, client-server architecture |
+| [Minishell](https://github.com/Loreenbh/minishell) | Unix shell — fork/exec, pipes, signals, process management |
+| [Inception](https://github.com/Loreenbh/inception) | Docker infrastructure — service isolation, system administration, container networking |
 
   ## 📬 Contact
 
