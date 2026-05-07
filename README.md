@@ -28,37 +28,19 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 ![Security Projects](./images/security.png)
 
-### 📝 [Forensic & Security Writeups](https://github.com/Loreenbh/forensic-writeups)
+### [Forensic & Security Writeups](https://github.com/Loreenbh/forensic-writeups)
 
-### Exploitation & Reverse Engineering  
-- **Rainfall** – (In Progress)  
-  Binary exploitation, reverse engineering, buffer overflows  
-  Low-level memory behavior and exploitation techniques
+Write-ups covering Linux forensics, web attacks, privilege escalation and incident investigations.
+Labs from HackTheBox (Sherlocks).
 
-### System Security & Privilege Escalation  
-- **Snowcrash**  
-  Linux privilege escalation through misconfigurations and SUID binaries  
-  System-level vulnerability exploitation  
-  https://github.com/Loreenbh/snowcrash
-  
-### Web Security  
-- **Darkly**  
-  Web application security 
-  XSS, SQL injection, authentication bypass, access control flaws  
-  https://github.com/Loreenbh/darkly
-  
-### Security Analysis & Incident Investigation
+### [Darkly](https://github.com/Loreenbh/darkly)
+Web application security — XSS, SQL injection, authentication bypass, access control flaws.
 
-- **HackTheBox Profile**  
-  Active participation in SOC-style labs, forensic challenges, and system compromise scenarios  
-  https://app.hackthebox.com/users/2994472
-  
-- **Forensic & Security Writeups**  
-  Analysis of Linux forensics, web attacks, privilege escalation, and incident investigations  
-  https://github.com/Loreenbh/forensic-writeups
-  
-- **Personal Security Projects** (in progress)  
-  Log analysis, attack simulation, and system behavior research for cybersecurity learning
+### [Snowcrash](https://github.com/Loreenbh/snowcrash)
+Linux privilege escalation through misconfigurations and SUID binaries.
+
+### Rainfall *(in progress)*
+Binary exploitation, reverse engineering, buffer overflows. Low-level memory behavior.
 
 
 ![Systems & Networking Projects](./images/system_networking.png)
@@ -69,7 +51,7 @@ and analyzing them from a security perspective — logs, incident investigation,
 | [Minishell](https://github.com/Loreenbh/minishell) | Unix shell — fork/exec, pipes, signals, process management |
 | [Inception](https://github.com/Loreenbh/inception) | Docker infrastructure — service isolation, system administration, container networking |
 
-  ## 📬 Contact
+  ## Contact
 
 Looking for an **internship or apprenticeship in Forensic / SOC**.
 
