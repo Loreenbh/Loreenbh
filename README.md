@@ -2,6 +2,16 @@
 
 ![About Me](./images/aboutMe.png)
 
+
+<h1 align="center">Loreen Benhammou</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/École_42-Paris-000000?style=flat-square&logo=42&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Forensic_·_SOC-0F6E56?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_internship-1D9E75?style=flat-square"/>
+</p>
+
+
 <p align="center">
 Cybersecurity student at École 42. I focus on understanding how systems work at a low level<br>
 and analyzing them from a security perspective — logs, incident investigation, and exploitation techniques.
