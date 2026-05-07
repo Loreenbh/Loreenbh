@@ -45,8 +45,8 @@ Labs from HackTheBox (Sherlocks).
 
 <a href="https://github.com/Loreenbh/darkly">
   <img src="https://img.shields.io/badge/Darkly-008080?style=flat-square&logo=github&logoColor=white"/>
-</a>
-Web application security — XSS, SQL injection, authentication bypass.
+</a>  
+  Web application security — XSS, SQL injection, authentication bypass.
 
 
 
