@@ -68,6 +68,7 @@ Binary exploitation, reverse engineering, buffer overflows. Low-level memory beh
   <img src="https://www.hackthebox.com/badge/image/2994472" alt="HackTheBox Badge"/>
 </a>
 
+
 Active on forensic and SOC-style challenges (Sherlocks).
 
 
