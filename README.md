@@ -66,7 +66,9 @@ Linux privilege escalation through misconfigurations and SUID binaries.
 
 
 <img src="https://img.shields.io/badge/Rainfall-555555?style=flat-square&logo=github&logoColor=white"/>
+
 Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
+
 
 
 ![Systems & Networking Projects](./images/system_networking.png)
