@@ -38,7 +38,7 @@ and analyzing them from a security perspective — logs, incident investigation,
 ![Security Projects](./images/security.png)
 
 <a href="https://github.com/Loreenbh/forensic-writeups">
-  <img src="https://img.shields.io/badge/Forensic_Writeups-1a3f4f?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forensic_Writeups-1A4659?style=flat-square&logo=github&logoColor=white"/>
 </a>  
 
 Write-ups covering Linux forensics, web attacks, privilege escalation and incident investigations. Labs from HackTheBox (Sherlocks).
@@ -47,7 +47,7 @@ Write-ups covering Linux forensics, web attacks, privilege escalation and incide
 
 
 <a href="https://github.com/Loreenbh/darkly">
-  <img src="https://img.shields.io/badge/Darkly-1a3f4f?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Darkly-1A4659?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 Web application security — XSS, SQL injection, authentication bypass, access control flaws.
@@ -56,7 +56,7 @@ Web application security — XSS, SQL injection, authentication bypass, access c
 
 
 <a href="https://github.com/Loreenbh/snowcrash">
-  <img src="https://img.shields.io/badge/Snowcrash-1a3f4f?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowcrash-1A4659?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 Linux privilege escalation through misconfigurations and SUID binaries.
@@ -74,9 +74,9 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/Loreenbh/webserv"><img src="https://img.shields.io/badge/Webserv-1a3f4f?style=flat-square"/></a> | HTTP server built with raw sockets — HTTP protocol, request parsing, client-server architecture |
-| <a href="https://github.com/Loreenbh/minishell"><img src="https://img.shields.io/badge/Minishell-1a3f4f?style=flat-square"/></a> | Unix shell — fork/exec, pipes, signals, process management |
-| <a href="https://github.com/Loreenbh/inception"><img src="https://img.shields.io/badge/Inception-1a3f4f?style=flat-square"/></a> | Docker infrastructure — service isolation, system administration, container networking |
+| <a href="https://github.com/Loreenbh/webserv"><img src="https://img.shields.io/badge/Webserv-1A4659?style=flat-square"/></a> | HTTP server built with raw sockets — HTTP protocol, request parsing, client-server architecture |
+| <a href="https://github.com/Loreenbh/minishell"><img src="https://img.shields.io/badge/Minishell-1A4659?style=flat-square"/></a> | Unix shell — fork/exec, pipes, signals, process management |
+| <a href="https://github.com/Loreenbh/inception"><img src="https://img.shields.io/badge/Inception-1A4659?style=flat-square"/></a> | Docker infrastructure — service isolation, system administration, container networking |
 
 
 ![Hack The Box](./images/hackthebox.png)
@@ -98,6 +98,6 @@ Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
 <div align="center">
 <a href="https://github.com/Loreenbh"><img src="https://img.shields.io/badge/GitHub-Loreenbh-181717?style=flat-square&logo=github"/></a>
-<a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-1a3f4f?style=flat-square&logo=hackthebox&logoColor=black"/></a>
+<a href="https://app.hackthebox.com/users/2994472"><img src="https://img.shields.io/badge/HackTheBox-Profile-1A4659?style=flat-square&logo=hackthebox&logoColor=black"/></a>
 
 </div>
