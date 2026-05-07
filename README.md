@@ -46,11 +46,13 @@ Write-ups covering Linux forensics, web attacks, privilege escalation and incide
 
 
 
+
 <a href="https://github.com/Loreenbh/darkly">
   <img src="https://img.shields.io/badge/Darkly-008080?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 Web application security — XSS, SQL injection, authentication bypass, access control flaws.
+
 
 
 
@@ -62,7 +64,8 @@ Linux privilege escalation through misconfigurations and SUID binaries.
 
 
 
-<img src="https://img.shields.io/badge/Rainfall-555555?style=flat-square&logo=github&logoColor=white"/>  
+
+<img src="https://img.shields.io/badge/Rainfall-555555?style=flat-square&logo=github&logoColor=white"/>
 
 Binary exploitation, reverse engineering, buffer overflows. *(in progress)*
 
