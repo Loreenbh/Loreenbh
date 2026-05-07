@@ -28,6 +28,9 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 ![Security Projects](./images/security.png)
 
+
+### 📝 [Forensic & Security Writeups](https://github.com/Loreenbh/forensic-writeups)
+
 ### Exploitation & Reverse Engineering  
 - **Rainfall** – (In Progress)  
   Binary exploitation, reverse engineering, buffer overflows  
