@@ -51,7 +51,7 @@ Web application security — XSS, SQL injection, authentication bypass, access c
 Web application security — XSS, SQL injection, authentication bypass.
 
 <a href="https://github.com/Loreenbh/darkly">
-  <img src="https://img.shields.io/badge/voir_le_repo-00b4b4?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Darkly-008080?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 
