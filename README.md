@@ -17,7 +17,6 @@ Cybersecurity student at École 42. I focus on understanding how systems work at
 and analyzing them from a security perspective — logs, incident investigation, and exploitation techniques.
 </p>
 
----
 
 ![Skills](./images/skills.png)
 
@@ -35,9 +34,8 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 
 **Languages**
-- C · Python · Bash
+- C · C++ · Python · Bash
   
----
 
 ![Security Projects](./images/security.png)
 
@@ -55,7 +53,6 @@ Linux privilege escalation through misconfigurations and SUID binaries.
 ### Rainfall *(in progress)*
 Binary exploitation, reverse engineering, buffer overflows. Low-level memory behavior.
 
----
 
 ![Systems & Networking Projects](./images/system_networking.png)
 
@@ -65,7 +62,7 @@ Binary exploitation, reverse engineering, buffer overflows. Low-level memory beh
 | [Minishell](https://github.com/Loreenbh/minishell) | Unix shell — fork/exec, pipes, signals, process management |
 | [Inception](https://github.com/Loreenbh/inception) | Docker infrastructure — service isolation, system administration, container networking |
 
----
+
 ## HackTheBox
 
 <a href="https://app.hackthebox.com/users/2994472">
@@ -74,7 +71,6 @@ Binary exploitation, reverse engineering, buffer overflows. Low-level memory beh
 
 Active on forensic and SOC-style challenges (Sherlocks).
 
----
 
 ## Contact
 
