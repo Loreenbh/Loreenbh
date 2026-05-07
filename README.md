@@ -40,7 +40,7 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 <a href="https://github.com/Loreenbh/forensic-writeups">
   <img src="https://img.shields.io/badge/Forensic_Writeups-008080?style=flat-square&logo=github&logoColor=white"/>
-</a>
+</a>  
   Write-ups covering Linux forensics, web attacks, privilege escalation and incident investigations. Labs from HackTheBox (Sherlocks).
 
 
