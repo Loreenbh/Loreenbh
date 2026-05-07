@@ -9,22 +9,22 @@ and analyzing them from a security perspective — logs, incident investigation,
 
 ![Skills](./images/skills.png)
 
+**Security**
+- Log analysis & incident investigation
+- Linux forensics (HackTheBox Sherlocks Challenges)
+- Linux privilege escalation (SUID, misconfigurations)
+- Web vulnerabilities: XSS, SQLi, authentication bypass
+
+
 **Systems & Networking**
 - Linux, Bash, Git
-- TCP/IP, ports, networking fundamentals
-- Network scanning & enumeration
+- TCP/IP, ports, network enumeration
+- Docker, system administration
 
-**Security**
-- Incident investigation & log analysis
-- Linux privilege escalation
-- Web vulnerabilities (XSS, SQLi, authentication flaws)
-- Security analysis & attack reconstruction
 
-**Programming**
-- C, Python, Bash
+**Languages**
+- C · Python · Bash
 
-**Platforms**
-- Hack The Box (Sherlocks, forensic challenges)
 
 ![Security Projects](./images/security.png)
 
