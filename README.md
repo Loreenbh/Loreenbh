@@ -1,8 +1,11 @@
-![Banner](./images/bhl.png)
+<div align="center">
 
-<div>
-<img src="./images/matiere.png" style="display:block;width:100%;">
-<a href="TON_LIEN_SYLAGE"><img src="./images/archives.png" style="display:block;width:100%;"></a>
-<a href="TON_LIEN_PORTFOLIO"><img src="./images/world.png" style="display:block;width:100%;"></a>
-<img src="./images/fin.png" style="display:block;width:100%;">
+<img src="./images/planche.png" width="100%" />
+
+<br><br>
+
+<a href="TON_LIEN_SYLAGE">ARCHIVES ↗</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="TON_LIEN_PORTFOLIO">WORLD ↗</a>
+
 </div>
