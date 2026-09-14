@@ -1,3 +1,8 @@
 ![Banner](./images/bhl.png)
 
-<p align="center"><img src="./images/matiere.png" width="100%"/><a href="TON_LIEN_SYLAGE"><img src="./images/archives.png" width="100%"/></a><a href="TON_LIEN_PORTFOLIO"><img src="./images/world.png" width="100%"/></a><img src="./images/fin.png" width="100%"/></p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tr><td><img src="./images/matiere.png" width="100%"/></td></tr>
+<tr><td><a href="TON_LIEN_SYLAGE"><img src="./images/archives.png" width="100%"/></a></td></tr>
+<tr><td><a href="TON_LIEN_PORTFOLIO"><img src="./images/world.png" width="100%"/></a></td></tr>
+<tr><td><img src="./images/fin.png" width="100%"/></td></tr>
+</table>
