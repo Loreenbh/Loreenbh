@@ -2,28 +2,20 @@
 
 <img src="./images/planche.png" width="100%" />
 
-<br><br>
+<div style="display:flex; justify-content:center; gap:0; margin:0; padding:0;">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td>
 <a href="TON_LIEN_ARCHIVES">
-<img src="./images/archives-link.png" width="250">
+<img src="./images/archives-link.png" width="33.33%" />
 </a>
-</td>
 
-<td>
 <a href="TON_LIEN_WORLD">
-<img src="./images/world-link.png" width="250">
+<img src="./images/world-link.png" width="33.33%" />
 </a>
-</td>
 
-<td>
 <a href="TON_LIEN_TRACE">
-<img src="./images/trace-link.png" width="250">
+<img src="./images/traces-link.png" width="33.33%" />
 </a>
-</td>
-</tr>
-</table>
+
+</div>
 
 </div>
