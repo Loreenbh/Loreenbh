@@ -10,6 +10,4 @@
   <img src="./images/sylage-inprogress.png" width="100%">
 
   <br><br>
-
-  <a href="https://github.com/loreenbh/42">42 PROJECTS →</a>
 </div>
