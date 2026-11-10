@@ -1,17 +1,20 @@
-Hello 🫶
+# Helloo!
 
-Issue d'un parcours mêlant création, design et informatique, j'ai développé une approche à la fois créative et analytique.
-J'ai suivi le cursus de l'École 42 Paris, où j'ai validé le tronc commun et travaillé sur différents projets autour du développement informatique, des systèmes et de la cybersécurité.
+I'm Loreen, with a background in design and computer science.
 
-## Compétences
+I studied software development at **42 Paris**, where I validated the core curriculum and worked on projects involving programming, systems and cybersecurity.
 
-Langages : C, C++, JavaScript, TypeScript
-Web : React, Next.js, HTML, CSS
-Outils : Git, GitHub, Linux
-Domaines explorés : développement web, programmation système, cybersécurité
+## Skills
 
-## Quelques projets
-Darkly : identification et compréhension de 13 vulnérabilités web.
-SnowCrash : résolution de 14 niveaux autour de la sécurité informatique.
-Webserv : développement d'un serveur web en C++.
-Minishell : création d'un interpréteur de commandes en C.
+- **Languages:** C, C++, JavaScript, TypeScript
+- **Web:** React, Next.js, HTML, CSS
+- **Tools:** Git, GitHub, Linux
+
+## Projects
+
+- [Darkly](https://github.com/Loreenbh/darkly) — Web security and vulnerability analysis.
+- [SnowCrash](https://github.com/Loreenbh/snowcrash) — Linux security challenges.
+- [Webserv](https://github.com/Loreenbh/webserv) — Web server developed in C++.
+- [Minishell](https://github.com/Loreenbh/minishell) — Command-line shell developed in C.
+
+Always learning and exploring new things. 
