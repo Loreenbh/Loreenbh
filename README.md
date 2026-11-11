@@ -1,14 +1,15 @@
-# Helloo!
+A full stack developer with a background in design and computer science.
 
-I'm Loreen, with a background in design and computer science.
+I studied software development at 42 Paris, where I validated the core curriculum and worked on a variety of programming projects, from web development to system programming.
 
-I studied software development at **42 Paris**, where I validated the core curriculum and worked on projects involving programming, systems and cybersecurity.
+With a background in design, I bring a creative perspective to my technical approach. I enjoy building applications, solving problems and exploring different ways to bring ideas to life through code.
 
 ## Skills
 
-- **Languages:** C, C++, JavaScript, TypeScript
-- **Web:** React, Next.js, HTML, CSS
-- **Tools:** Git, GitHub, Linux
+- Languages: C, C++, JavaScript, TypeScript
+- Frontend: React, Next.js, HTML, CSS
+- Backend: C, C++, Node.js, SQL
+- Tools: Git, GitHub, Linux
 
 ## Projects
 
