@@ -31,8 +31,6 @@ A visual platform combining interface design, community features and full-stack 
 
 **42 Paris — Software Engineering**
 
-**42 Paris — Software Engineering**
-
 Selected projects exploring systems programming, networking, web security and software architecture:
 
 - **[Webserv](https://github.com/Loreenbh/webserv)** — HTTP server built in C++ using raw sockets.
