@@ -37,7 +37,7 @@ Selected projects exploring systems programming, networking, web security and so
 
 - **[Webserv](https://github.com/Loreenbh/webserv)** — HTTP server built in C++ using raw sockets.
 - **[Minishell](https://github.com/Loreenbh/minishell)** — Shell implementation in C.
-- **Inception** — Infrastructure and containerization with Docker.
+- **[Inception](https://github.com/Loreenbh/inception)** — Infrastructure and containerization with Docker.
 - **[Darkly](https://github.com/Loreenbh/darkly)** — Web security audit covering 13 vulnerabilities.
 - **[Snow Crash](https://github.com/Loreenbh/snowcrash)** — Cybersecurity challenges and exploitation techniques.
 
