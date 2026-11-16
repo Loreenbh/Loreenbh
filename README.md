@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/github-banner.png" width="100%" />
+  <img src="./images/github-banner.png" width="100%" />
 
   <h1>Creative Developer & World Builder</h1>
   <p>Digital Design · 3D · Creative Development · Interactive Experiences</p>
