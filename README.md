@@ -1,11 +1,22 @@
-### Creative Developer & World Builder
-**Digital Design · Creative Development · Interactive Experiences**
+<div align="center">
+  <img src="./img/github-banner.png" width="100%" />
 
-I explore the space between design and technology to create distinctive digital experiences.
+  <h1>Creative Developer & World Builder</h1>
+  <p>Digital Design · 3D · Creative Development · Interactive Experiences</p>
+  <p>I explore the space between design and technology to create distinctive digital experiences.</p>
+  <p>With a background in design and a technical education in software development, I approach projects from both a creative and engineering perspective — from visual identity and interface design to interactive experiences and full-stack development.</p>
+</div>
+</div>
 
-With a background in design and a technical education in software development, I approach projects from both a creative and engineering perspective — from visual identity and interface design to interactive experiences and full-stack development.
+<br />
+<br />
 
----
+<div align="center">
+  ✳︎
+</div>
+
+<br />
+<br />
 
 ### 01 — ABOUT
 
