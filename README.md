@@ -1,87 +1,32 @@
-<div align="center">
-  <img src="./images/github-banner.png" width="100%" />
+### About
 
-  <h1>Creative Developer & World Builder</h1>
-  <p>Digital Design · 3D · Creative Development · Interactive Experiences</p>
-  <p>I explore the space between design and technology to create distinctive digital experiences.</p>
-  <p>With a background in design and a technical education in software development, I approach projects from both a creative and engineering perspective — from visual identity and interface design to interactive experiences and full-stack development.</p>
-</div>
-</div>
+42 Paris core curriculum graduate with foundational networking and cybersecurity badges from **Cisco**.
 
-<br />
-<br />
-
-<div align="center">
-  ✳︎
-</div>
-
-<br />
-<br />
-
-### 01 — ABOUT
-
-- Design background — École Conte
-- Software engineering training — 42 Paris
-- Interested in creative development, digital experiences, interactive design and 3D environments.
-- Working across visual design, frontend and backend development.
-
-I enjoy building things that are not only functional, but also have a strong visual identity and a world of their own.
+I enjoy understanding how software works under the hood (Linux systems, network traffic, databases) to troubleshoot real issues and help users clearly.
 
 ---
 
-### 02 — SELECTED WORK
+### Technical Skills
 
-**MOODEN**  
-*A visual space for moods, inspiration and creative expression.*
-
-A visual platform combining interface design, community features and full-stack development.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
-
-[Live website](https://mooden-studio.vercel.app/) · [GitHub repository](https://github.com/Loreenbh/mooden)
-
-**42 Paris — Software Engineering**
-
-Selected projects exploring systems programming, networking, web security and software architecture:
-
-- **[Webserv](https://github.com/Loreenbh/webserv)** — HTTP server built in C++ using raw sockets.
-- **[Minishell](https://github.com/Loreenbh/minishell)** — Shell implementation in C.
-- **[Inception](https://github.com/Loreenbh/inception)** — Infrastructure and containerization with Docker.
-- **[Darkly](https://github.com/Loreenbh/darkly)** — Web security audit covering 13 vulnerabilities.
-- **[Snow Crash](https://github.com/Loreenbh/snowcrash)** — Cybersecurity challenges and exploitation techniques.
+- **Systems, Networking & Security (foundations):** Linux / CLI, TCP/IP, HTTP/HTTPS, DNS, basic network diagnostics & device configuration (Cisco), Docker.
+- **Development & Data:** C, C++, basic SQL, JavaScript / TypeScript, Git, Bash scripting.
+- **Troubleshooting:** Reading logs, inspecting HTTP requests, reproducing bugs, writing clear technical notes.
 
 ---
 
-### 03 — CREATIVE & TECHNICAL TOOLKIT
+### Selected 42 Paris Projects
 
-**Development**
-- JavaScript · TypeScript
-- React · Next.js
-- HTML · CSS
-- C · C++
-- SQL · PostgreSQL
-- Supabase
-
-**Design & 3D**
-- Figma
-- Adobe Creative Cloud
-- Blender
-- UI/UX Design
-- Art Direction
-- 3D Modeling & Digital Environments
-
-**Areas of interest**
-- Creative Development
-- Interactive Experiences
-- Digital Product Design
-- Creative Coding
-- 3D Web Experiences
-- Backend Development
+- **[Darkly](https://github.com/Loreenbh/darkly)** — Web security basics (understanding common vulnerabilities like SQL injection or XSS, inspecting HTTP requests and cookies).
+- **[Snowcrash](https://github.com/Loreenbh/snowcrash)** — Intro to Linux system security (permissions, access rights, analyzing program behavior).
+- **[Inception](https://github.com/Loreenbh/inception)** — Multi-container setup with Docker (NGINX, WordPress, MariaDB) and basic network configuration.
+- **[webserv](https://github.com/Loreenbh/webserv)** — HTTP server in C++ (client-server exchanges, HTTP status codes, handling connections).
+- **[Minishell](https://github.com/Loreenbh/minishell)** — Unix shell in C (processes, environment variables, standard I/O).
 
 ---
 
-### 04 — CONNECT
+### Cisco Badges & Links
 
-Open to opportunities in creative development, digital design and interactive experiences.
-
-[LinkedIn](https://www.linkedin.com/in/loreen-begliomini-hazan/)
+- **Networking Basics** (Oct 2025) · **Networking Devices and Initial Configuration** (Dec 2025)
+- **Introduction to Cybersecurity** (Oct 2025) · **Cyber Threat Management** (May 2026)
+- **Credly Profile:** [View badges](https://www.credly.com/users/your-public-profile)
+- **Location:** Paris / Île-de-France (French & English)
