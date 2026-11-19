@@ -28,5 +28,5 @@ I enjoy understanding how software works under the hood (Linux systems, network 
 
 - **Networking Basics** (Oct 2025) · **Networking Devices and Initial Configuration** (Dec 2025)
 - **Introduction to Cybersecurity** (Oct 2025) · **Cyber Threat Management** (May 2026)
-- - **Credly Profile:** [View badges](https://www.credly.com/users/lolo-h)
+- **Credly Profile:** [View badges](https://www.credly.com/users/lolo-h)
 - **Location:** Paris / Île-de-France (French & English)
